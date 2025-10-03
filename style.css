@@ -1,0 +1,1148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* =========================== Navigation bar =================== */
+nav{
+    height: 80px;
+    width: 100%;
+}
+.logo{
+    margin-left: 120px;
+    padding: 10px;
+    margin-top: -70px;
+}
+nav ul {
+   list-style: none;
+   margin-left: 350px;
+   font-size: 20px;
+   word-spacing: 10px;
+   padding: 25px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    color:#255946;
+    padding: 20px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    text-decoration:underline;
+}
+.icon{
+    float: right;
+    margin-right: 300px;
+    margin-top: -50px;
+    word-spacing: 10px;
+    font-size: 20px;
+    color: black;
+}
+.any{
+    background-color: #f7c357;
+    border: none;
+    padding: 25px 70px;
+    text-align: left;
+    border-radius: 5%;
+    float: right;
+    margin-right: 90px;
+    margin-top: -65px;
+    cursor: pointer;
+}
+.any:hover{
+    background-color: #255946;
+}
+.phoneicon{
+    text-align: right;
+    margin-top: -50px;
+    margin-right: 200px;
+}
+.call{
+    text-align: right;
+    margin-top: -35px;
+    margin-right: 100px;
+    color: #fff;
+}
+/*=========================navigation closed====================*/
+/* =========================== Page 1 =============== */
+.menu{
+    background-image: url(Photos/main-slider-1-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.tagline{
+    font-family: sans-serif;
+    margin-left: 120px;
+    padding-top:150px ;
+    color: white;
+    font-size: 16px;
+}
+.menu p{
+    font-family: cursive;
+    font-size: 80px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+.img{
+    margin-left: 500px;
+    margin-top: -220px;
+}
+.para{
+    font-size: 20px;
+    color: white;
+    margin-top: 150px;
+    margin-left: 110px;
+}
+.btn2{
+    font-size: 18px;
+    margin-left: 110px;
+    padding: 20px;
+    background-color: #f7c357;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    margin-top: 20px;
+}
+.btn2:hover{
+    color: #f7c357;
+    background-color: white;
+}
+.background{
+    height: 350px;
+    background-color: #f7c357;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 150px;
+}
+.img1{
+    border-radius: 5px;
+    cursor: pointer;
+}
+.img1:hover{
+    filter: blur(0.8px);
+}
+.img2{
+    border-radius: 5px;
+}
+.img2:hover{
+    filter: blur(0.8px);
+}
+.img3{
+    border-radius: 5px;
+}
+.img3:hover{
+    filter: blur(0.8px);
+}
+.btn3{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 170px;
+    padding: 20px;
+    color: #255946;
+    background-color: white;
+    border: none;
+    border-radius: 5%;
+    margin-top: -190px;
+}
+.btn3:hover{
+    color: #f7c357;
+    background-color: white;
+}
+.btn4{
+    position: absolute;
+    font-size: 20px;
+    margin-left:580px;
+    padding: 20px;
+    color: #255946;
+    background-color: white;
+    border: none;
+    border-radius: 5%;
+    margin-top: -190px;
+}
+.btn4:hover{
+    color: #f7c357;
+    background-color: white;
+}
+.btn5{
+    position: absolute;
+    font-size: 20px;
+    margin-left: 980px;
+    padding: 20px;
+    color: #255946;
+    background-color: white;
+    border: none;
+    border-radius: 5%;
+    margin-top: -190px;
+}
+.btn5:hover{
+    color: #f7c357;
+    background-color: white;
+}
+/* ================== End  page 1========== */
+/* ==================== Page 2================== */
+.img4{
+    margin-left: 40px;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+.img5{
+    margin-top: -45px;
+    border-radius: 10px;
+}
+.blankshape{
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+    background-color: #f7c357;
+    justify-content: right;
+    margin-top: -750px;
+    position: absolute ;
+    margin-left: 30px;
+}
+.para6{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 70px;
+    margin-left: 10px;
+    color: white;
+    font-family: cursive;
+}
+.blank{
+    height: 780px;
+    width: 50%;
+    background-color:white;
+    margin-left: 600px;
+    margin-top: -900px;
+    position: absolute;
+    border-radius: 10px;
+}
+.img6{
+    padding-top: 70px;
+    height: 35px;
+    width: 5%;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.para2{
+    margin-left: 100px;
+    padding: 20px;
+    color: grey;
+}
+.para3{
+    margin-left: 120px;
+    font-size: 40px;
+    color: #255946;
+}
+.para4{
+    font-family:cursive;
+    margin-left: 100px;
+    color: #f7c357;
+    font-size: 20px;
+    padding: 20px;
+}
+.para5{
+    margin-left: 100px;
+    padding: 20px;
+    font-size: 18px;
+    word-spacing: 5px;
+    color: gray;
+}
+.hr1{
+    width: 80%;
+    margin-left: 120px;
+}
+.img7{
+    margin-left: 110px;
+    margin-top: 25px;
+    background-color: #fff;
+}
+.para7{
+    cursor: pointer;
+    color: #255946;
+    margin-left: 220px;
+    margin-top: -60px;
+    font-size: 20px;
+}
+.para7:hover{
+    color:#f7c357;
+}
+.img8{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -390px;
+}
+.para8{
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: -370px;
+    font-size: 20px;
+    color: #255946;
+}
+.para8:hover{
+    color:#f7c357;
+}
+.line{
+    position: relative;
+    border-bottom: 1px solid gray;
+    width: 40%;
+    margin-left: 700px;
+    margin-top: -250px;
+}
+.btn6{
+    position: relative;
+    margin-top: 50px;
+    font-size: 18px;
+    margin-left: 700px;
+    background-color: #f7c357;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    padding: 25px;
+    
+}
+.btn6:hover{
+    color:white;
+    background-color:#255946;
+}
+.aboutimg{
+    margin-left: 500px;
+    margin-top: -170px;
+}
+/* ======================= End page 2============ */
+/* ====================== Page 3 ================== */
+.blank1{
+    background-color:#f6f5f2;
+    height: 500px;
+    width: 100%;
+    margin-top: 30px;
+}
+.icon1{
+    padding-top: 20px;
+    text-align: center;
+}
+.para9{
+    padding-top: 10px;
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+    word-spacing: 0.5px
+}
+h3{
+    text-align: center;
+    padding-top: 10px;
+    color: #255946;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.products{
+    padding-top: 50px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.blank2{
+    height: 500px;
+    width: 20%;
+    background-color:white;
+    border-radius: 10px;
+}
+.blank3{
+    height: 500px;
+    width: 20%;
+    background-color:white;
+    border-radius: 10px;
+}
+.blank4{
+    height: 500px;
+    width: 20%;
+    background-color:white;
+    border-radius: 10px;
+}
+.blank5{
+    height: 500px;
+    width: 20%;
+    background-color:white;
+    border-radius: 10px;
+}
+.imge1{
+    height: 200px;
+    width: 100%;
+    gap: 10px;
+    border-radius: 10px;
+}
+.imge2{
+    height: 200px;
+    width: 100%;
+    gap: 10px;
+    border-radius: 10px;
+}
+.imge3{
+    height: 200px;
+    width: 100%;
+    gap: 10px;
+    border-radius: 10px;
+}
+.imge4{
+    height: 200px;
+    width: 100%;
+    gap: 10px;
+    border-radius: 10px;
+}
+.shape1{
+    position: absolute;
+    height: 90px;
+    width: 7%;
+    background-color:#255946;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-top: -345px;
+    margin-left: 200px;
+}
+.shape2{
+    position: absolute;
+    height: 90px;
+    width: 7%;
+    background-color:#255946;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-top: -345px;
+    margin-left: 480px;
+}
+.shape3{
+    position: absolute;
+    height: 90px;
+    width: 7%;
+    background-color:#255946;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-top: -345px;
+    margin-left: 760px;
+}
+.shape4{
+    position: absolute;
+    height: 90px;
+    width: 7%;
+    background-color:#255946;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin-top: -345px;
+    margin-left: 1040px;
+}
+.ico1{
+    position: absolute;
+    background-color: #255946;
+    height: 60px;
+    width: 60px;
+    margin-left: 220px;
+    margin-top: -330px;
+}
+.ico2{
+    position: absolute;
+    background-color: #255946;
+    height: 60px;
+    width: 60px;
+    margin-left: 500px;
+    margin-top: -330px;
+}
+.ico3{
+    position: absolute;
+    background-color: #255946;
+    height: 60px;
+    width: 60px;
+    margin-left: 780px;
+    margin-top: -320px;
+}
+.ico4{
+    position: absolute;
+    background-color: #255946;
+    height: 60px;
+    width: 60px;
+    margin-left: 1060px;
+    margin-top: -330px;
+}
+.paraghrph{
+    padding-top: 30px;
+    display: flex;
+    text-align: center;
+    margin-top: -250px;
+    gap: 150px;
+    color: #255946;
+}
+.para10{
+    margin-left: 230px;
+}
+.para11{
+    margin-left: 60px;
+}
+.para12{
+    margin-left: 50px;
+}
+.para13{
+    margin-left: 50px;
+}
+.subpara{
+    padding-top: 20px;
+    display: flex;
+    text-align: center;
+    margin-left: 200px;
+    gap: 130px;
+}
+.subpara1{
+    margin-left:-10px ;
+}
+/* ========================== End page 3 ================== */
+/* ============================= Page 4 =================== */
+.blank6{
+    background-color:#fff;
+    height: 800px;
+    width: 100%;
+}
+.icon3{
+    padding-top: 200px;
+    text-align: center;
+}
+.para14{
+    text-align: center;
+    color: gray;
+    text-transform: uppercase;
+    word-spacing: 0.5px
+}
+/* ========================== End page 4 ================= */
+ /*======================= Page 5====================*/
+  .carousel {
+    margin-top: -350px;
+    background: #EEE;
+  }
+  .carousel-cell {
+    width: 40%;
+    height: 400px;
+    margin-right: 10px;
+    background: #8C8;
+    border-radius: 10px;
+    counter-increment: carousel-cell;
+  }
+  .carousel-cell:hover .overlay
+  {
+    margin-bottom: 20px;
+    transition: 0.3s ease-in-out;
+  }
+  .carousel-cell .overlay
+  {
+    font-size: 18px;
+    text-align: left;
+    position: absolute;
+    width:50%;
+    padding: 20px;
+    background-color: #f7c357;
+    bottom:0;
+    margin: 20px;
+    height:100px;
+    margin-bottom:-140px;
+    transition: 0.9s ease-in-out;
+    color: #fff;
+    border-radius: 10px;
+  }
+  .carousel-cell .overlay img{
+    margin-left: 170px;
+    margin-top: -50px;
+    height: 70px;
+    width: 30%;
+  }
+  .carousel-cell img{width:100%; border-radius: 10px; gap:20px;}
+  .flickity-page-dots .is-selected{background-color:#255946 !important;}
+  .flickity-page-dots .dot{background-color: black}
+/* ================================ End Page 5 ================= */
+/* ============================= Page 6 ================= */
+  .blank7{
+    padding-top: 150px;
+  }
+  .green{
+    height: 500px;
+    width: 100%;
+    background-color:#49a760;
+    margin-top: -500px;
+    opacity: 0.9;
+  }
+  .cta-bg1{
+    margin-top: -80px;
+    margin-left: 50px;
+    border-radius: 10px;
+  }
+  .cta-bg2{
+    margin-left: 215px;
+    margin-top: -140px;
+    border-radius: 10px;
+  }
+  .high{
+    margin-left: 750px;
+    margin-top: -290px;
+    color:#fff;
+    font-family: cursive;
+    font-size: 50px;
+    text-align: left;
+  }
+  .btn7{
+    position: absolute;
+    margin-top: -220px;
+    font-size: 18px;
+    margin-left: 750px;
+    background-color: #f7c357;
+    color: white;
+    border: none;
+    border-radius: 5%;
+    padding: 20px;
+}
+.btn7:hover{
+    color:white;
+    background-color:#255946;
+}
+/*=============================== ENd Page 6 ==========================*/
+  .testimonials{
+     height: 600px;
+     width: 100%;
+  }
+  /*=============================== Page 7 ===============================*/
+  .blank8{
+    height: 600px;
+    width: 100%;
+    background-color: #255946;
+  }
+  .green1{
+    height: 500px;
+    width: 100%;
+    background-color:#255946;
+    margin-top: -500px;
+    opacity: 0.9;
+  }
+  .testimonials-img{
+    position: absolute;
+    height: 100px;
+    width: 30%;
+  }
+  /*-------------------------------next slider------------------------*/
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background:transparent;
+
+     /*-------------------Center slide text vertically-------------------*/
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }.swiper-slide .star{
+    font-size: 20px;
+    color: #f7c357;
+    
+    text-align: center;
+    justify-content: center;
+  }
+  .swiper-slide .para15, .para16, .para17{
+    color: #fff;
+    font-size: 24px;
+    font-family:  sans-serif;
+    padding: 30px;
+  }
+  .testimonials-one__title{
+    writing-mode: vertical-lr;
+    letter-spacing: 5px;
+    transform: rotate(-180deg);
+  }
+  .swiper-slide .test-img1{
+    height: 100px;
+    width: 100px;
+    gap: 10px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    display: inline-block;    
+}
+  .swiper-slide .test-img1:hover{
+    border: 4px solid #8C8;
+}
+  .swiper-slide .h4 {
+    padding-top: 20px;
+    font-size: 24px;
+    color: #fff;
+}
+  .swiper-slide .customer{
+    color: gray;
+}
+/*-------------------------------end next slider----------------------*/
+/*--------------------------------page 8  news & articles--------------*/
+.blank9{
+    height: 1200px;
+    width: 95%;
+    background-color:#f6f5f2;
+    margin-left: 35px;
+    margin-top: -100px;
+    border-radius: 10px;
+    
+  }
+.img11{
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.para16{
+    margin-left: 20px;
+    font-size: 15px;
+    color: grey;
+    margin-top: -20px;
+}
+.para17{
+    margin-top: -40px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: #255946;
+    font-family: sans-serif;
+}
+.para18{
+    margin-left: 650px;
+    margin-top: -150px;
+    color:#6e7673;
+    font-size: 20px;
+}
+.grid{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.gridshape1{
+    height: 500px;
+    width: 30%;
+    background-color:#fff;
+    border-radius: 10px;
+}
+.circle1{
+    height: 70px;
+    width: 70px;
+    background-color: #49a760;
+    position: absolute;
+    border-radius: 50%;
+    border:  5px solid #fff;
+    margin-top: -80px;
+    margin-left: 250px;
+}
+.para19{
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+.gridshape2{
+    height: 500px;
+    width: 30%;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.circle2{
+    height: 70px;
+    width: 70px;
+    background-color: #49a760;
+    position: absolute;
+    border-radius: 50%;
+    border:  5px solid #fff;
+    margin-top: -80px;
+    margin-left: 250px;
+}
+.para20{
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+.gridshape3{
+    height: 500px;
+    width: 30%;
+    background-color: #fff;
+    border-radius: 10px; 
+}
+.circle3{
+    height: 70px;
+    width: 70px;
+    background-color: #49a760;
+    position: absolute;
+    border-radius: 50%;
+    border:  5px solid #fff;
+    margin-top: -80px;
+    margin-left:260px;
+}
+.para21{
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
+.gridimg1{
+    width: 100%;
+    border-radius: 10px;
+}
+.gridimg2{
+    width: 100%;
+    border-radius: 10px;
+}
+.gridimg3{
+    width: 100%;
+    border-radius: 10px;
+}
+.user{
+    margin-left: 20px;
+    padding-top: 10px;
+    display: flex;
+    color: #49a760;
+}
+.usericon{
+    padding-top: 20px;
+    display: flex;
+}
+.usertext{
+    color: #6e7673;
+}
+.headuser{
+    text-align: left;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.headuser:hover{
+    color: #49a760;
+    cursor: pointer;
+}
+.btn9{
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    background-color: #f7c357;
+    margin-left: 30px;
+}
+.btn9:hover{
+    background-color: #255946;
+    color: #fff;
+}
+/*================================End page7  news & articles ==========================*/
+/*====================================== Page 9 =========================*/
+.hr{
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-top: -300px;
+    width: 80%;
+    margin-left: 120px;
+}
+.farmicon{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.headhr{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: -90px;
+    color: #255946;
+}
+.para22{
+    font-size: 18px;
+    margin-left: 90px;
+    padding: 10px;
+    color: #6e7673;
+}
+.orange{
+    height: 120px;
+    width: 20px;
+    background-color: #f7c357;
+    margin-left: 920px;
+    margin-top: -250px;
+    border-radius: 5px;
+}
+.blog{
+    margin-left: 480px;
+    margin-top: -60px;
+}
+/* ================================= End Page 9 ========================== */
+/*================================= Page 10 ============================*/
+.blank10{
+    background-color: #f6f5f2;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.photocontact{
+    border-radius: 50%;
+    margin-top: -450px;
+    margin-left: 60px;
+}
+.blank11{
+    background-color: #49a760;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -430px;
+    margin-left: 20px;
+    animation-name: example;
+    animation-duration: 10s ;
+    animation-iteration-count: infinite;
+}
+@keyframes example {
+    0%   {background-color:#49a760; left:0px; top:0px;}
+    25%  {background-color:#49a760; left:200px; top:0px;}
+    50%  {background-color:#49a760; left:200px; top:200px;}
+    75%  {background-color:#49a760; left:0px; top:200px;}
+    100% {background-color:#49a760; left:0px; top:0px;}
+  }
+.img12{
+    margin-left: 300px;
+    margin-top: -200px;
+}
+.para23{
+    margin-left: 290px;
+    color: #9ea5a2;
+    font-size: 15px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+.leave{
+    margin-left: 50px;
+    font-family: sans-serif;
+}
+.para24{
+    text-align: left;
+    margin-left: 20px;
+    margin-left: 290px;
+    padding: 10px;
+    color: #6e7673;
+    font-size: 16px;
+   font-weight: 500;
+   line-height: 2.125; 
+}
+.form{
+    margin-left: 900px;
+    margin-top: -400px;
+}
+.form input{
+    padding: 30px;
+    background-color: #f6f5f2;
+    border: none;
+}
+.cover textarea{
+    background-color: #f6f5f2;
+    border: none;
+}
+.button{
+    margin-top: 10px;
+    padding: 20px 43px;
+    font-size: 15px;
+    background-color: #f7c357;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+}
+.button:hover{
+    transition:0.4s;
+    background-color: #255946;
+    color: white;
+}
+.blank12{
+    
+    height: 50px;
+    width: 50px;
+    background-color: #f7c357;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    animation-name: context;
+    animation-duration: 10s ;
+    animation-iteration-count: infinite;
+}
+@keyframes context{
+    0%   {background-color:#f7c357; left:0px; top:0px;}
+    25%  {background-color:#f7c357; left:200px; top:0px;}
+    50%  {background-color:#f7c357; left:200px; top:200px;}
+    75%  {background-color:#f7c357; left:0px; top:200px;}
+    100% {background-color:#f7c357; left:0px; top:0px;}
+  }
+
+.blank13{
+    margin-top: 70px;
+    margin-bottom: 60px;
+    border-bottom: 2px solid #f6f5f2;
+}
+/*============================== End Page 10 ======================*/
+/*============================ Page 11  envato slider ===================*/
+.blank14{
+    margin-top: 60px;
+    height: 500px;
+    width: 100%;
+    background-color: #255946;
+  }
+  .loaderfooter{
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .agri{
+    font-size: 35px;
+    color: #fff;
+    margin-left: 160px;
+    margin-top: -50px;
+  }
+  .para25{
+    word-spacing: 5px;
+    color: #9ea5a2;
+    font-size: 18px;
+    margin-top: -370px;
+    margin-left: 50px;
+  }
+  .emailaddress{
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+.emailaddress input{
+    padding: 30px;
+    background-color: #f6f5f2;
+    border: none;
+}
+.rightarrow{
+    font-size: 25px;
+    margin-left: 350px;
+    margin-top: -50px;
+    color: #255946;
+}
+.social{
+    margin-left: 100px;
+    margin-top: 40px;
+    font-size: 20px;
+    color: #fff;
+    word-spacing: 20px;
+    cursor: pointer;
+}
+/*====================================  End Page 11  envato slider =========================*/
+/*============================== links  section ======================*/
+.footer1{
+    margin-top: -70px;
+    margin-left: 50px;
+}
+.word{
+    font-family: sans-serif;
+    font-size: 18px;
+    color:#fff;
+    margin-top: -470px;
+    margin-left: -120px
+}
+.linkul{
+    font-family: sans-serif;
+    margin-left: 500px;
+    color: #fff;
+    padding: 30px;
+}
+.linkul li{
+    padding: 10px;
+}
+.linkul li a{
+    text-decoration: none;
+    color: #9ea5a2;
+    font-size: 15px;
+}
+.linkul li a:hover{
+    color: #f7c357;
+}
+/* ============================== End links section ==================== */
+/*=============================== News section ========================*/
+.News{
+    font-size: 18px;
+    font-family: sans-serif;
+    color:#fff;
+    margin-left: 40px;
+    margin-top: -280px;
+}
+.footer{
+    margin-left: 670px;
+    margin-top: 30px;
+    padding: 10px;
+}
+.para26{
+    font-family: sans-serif;
+    margin-left: 80px;
+    margin-top: -70px;
+    color: #f7c357;
+    font-family: sans-serif;
+}
+
+.para27{
+    margin-left: 760px;
+    color: #fff;
+}
+/*============================ End news section ========================*/
+/*=========================== contact  footer section ============*/
+.contactfooter{
+    font-size: 18px;
+    font-family: sans-serif;
+    color:#fff;
+    margin-left: 300px;
+    margin-top: -250px;
+}
+.contactphone{
+    margin-top: 40px;
+    margin-left: 950px;
+    color: #f7c357;
+    font-size: 18px;
+}
+.para28{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #9ea5a2;
+    margin-left: 35px;
+    margin-top: -25px;
+}
+.footerline1{
+    border-bottom: 1px solid #9ea5a2;
+    width: 19%;
+    margin-left: 950px;
+    padding-top: 15px;
+}
+/*=================== End contact footer section ====================*/
+/* ============================ footer section ============ */
+.footerlast{
+    margin-left: 650px;
+    margin-top: -150px;
+}
+.bottomfooter{
+     height: 100px;
+     width: 100%;
+     background-color:#1f4e3d;
+}
+.para29{
+    font-family: sans-serif;
+    color: #9ea5a2;
+    margin-left: 80px;
+    padding-top: 40px;
+}
+.para30{
+    font-family: sans-serif;
+    margin-left: 850px;
+    color: #9ea5a2;
+    margin-top: -20px;
+}
+/*==================== End footer section ===============*/
